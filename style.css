@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.bg{
+    background-image: url(img/pic.jpg);
+    height: 400px;
+    width: 400;
+    border-radius: 5px;
+}
+.left-area a i{
+    color: #fff;
+    background: #2DCC70;
+    padding: 30px;
+    border-radius: 50%;
+    text-align: right;
+    margin-left: 600px;
+    margin-top: 170px;
+}
+.right-area{
+    margin-top: 70px;
+}
+.right-area p{
+    color: rgb(184, 179, 179);
+    padding-left: 35px;
+}
+.right-area h4{
+    padding-left: 35px;
+}
+.right-area ul li{
+    list-style: none;
+    margin-top: 8px;
+}
+.right-area ul{
+    margin-top: 20px;
+}
+.right-area ul li i{
+    color: #2ECC71;
+    padding-right: 15px;
+}
